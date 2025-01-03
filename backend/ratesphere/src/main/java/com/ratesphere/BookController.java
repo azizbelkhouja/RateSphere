@@ -24,8 +24,14 @@ public class BookController {
     }
 
     @GetMapping("/{imdbId}")
-    public ResponseEntity<Optional<Book>> getSingleBook(@PathVariable String imdbId) {
-        return new ResponseEntity<Optional<Book>>(bookService.singleBook(imdbId), HttpStatus.OK);
+    public ResponseEntity<?> getSingleBook(@PathVariable String imdbId) {
+        Optional<Book> book = bookService.singleBook(imdbId);
+        if (book.isPresent()) {
+            return ResponseEntity.ok(book);
+        } else {
+            return ResponseEntity.status(HttpStatus.NOT_FOUND).body("Book not found with IMDb ID: " + imdbId);
+        }
     }
+
 
 }
