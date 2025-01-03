@@ -18,8 +18,8 @@ public class BookService {
         return bookRepository.findAll();
     }
 
-    public Optional<Book> singleBook(ObjectId id) {
+    public Optional<Book> singleBook(String imdbId) {
 
-        return bookRepository.findById(id);
+        return bookRepository.findBookByImdbId(imdbId);
     }
 }

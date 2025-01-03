@@ -26,7 +26,7 @@ public class BookController {
 
     @GetMapping("/{id}")
     public ResponseEntity<Optional<Book>> getSingleBook(@PathVariable ObjectId id) {
-
         return new ResponseEntity<Optional<Book>>(bookService.singleBook(id), HttpStatus.OK);
     }
+
 }
