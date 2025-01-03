@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
+import java.util.Optional;
 
 @RestController
 @RequestMapping("/api/v1/books")
@@ -24,8 +25,8 @@ public class BookController {
     }
 
     @GetMapping("/{id}")
-    public ResponseEntity<Book> getSingleBook(@PathVariable ObjectId id) {
+    public ResponseEntity<Optional<Book>> getSingleBook(@PathVariable ObjectId id) {
 
-        return null;
+        return new ResponseEntity<Optional<Book>>(bookService.singleBook(id), HttpStatus.OK);
     }
 }
