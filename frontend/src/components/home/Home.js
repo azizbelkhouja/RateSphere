@@ -1,7 +1,6 @@
-import React from 'react'
-import Hero from '../hero/Hero'
+import Hero from '../hero/Hero';
 
-const Home = () => {
+const Home = ({books}) => {
   return (
     <Hero books = {books} />
   )
