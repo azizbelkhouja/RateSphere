@@ -8,7 +8,8 @@ function App() {
 
     const getBooks = async () => {
         try {
-            const response = await api.get('/api/books');
+            const response = await api.get('/api/v1/books');
+            console.log(response.data);
             setBooks(response.data);
         } catch (error) {
             console.error(error);
