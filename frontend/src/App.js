@@ -7,7 +7,6 @@ function App() {
     const [books, setBooks] = useState();
 
     const getBooks = async () => {
-
         try {
             const response = await api.get('/api/books');
             setBooks(response.data);
@@ -15,6 +14,10 @@ function App() {
             console.error(error);
         }
     }
+
+    useEffect(() => {
+        getBooks();
+    }, []);
 
     return (
         <div className="App">
