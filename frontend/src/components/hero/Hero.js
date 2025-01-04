@@ -41,7 +41,7 @@ const Hero = ({ books }) => {
                                                     </Link>
 
                                                     <div className="book-review-button-container">
-                                                        <Button variant="info" onClick={() => reviews(book.imdbId)} >Reviews</Button>
+                                                        <Button style={{ color: 'white', backgroundColor: 'black', borderColor: 'gold', borderRadius:'0' }} onClick={() => reviews(book.imdbId)} >Reviews</Button>
                                                     </div>
                                                 </div>
                                             </div>
@@ -50,7 +50,7 @@ const Hero = ({ books }) => {
                                 </Paper>
                             )
                         })
-                    ) : <h4>Loading....</h4>
+                    ) : <h4>Loading...</h4>
                 }
             </Carousel>
         </div>
