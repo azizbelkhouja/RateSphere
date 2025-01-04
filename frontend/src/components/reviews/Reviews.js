@@ -3,6 +3,7 @@ import api from '../../api/axiosConfig';
 import { useParams } from 'react-router-dom';
 import { Container, Row, Col } from 'react-bootstrap';
 import ReviewForm from '../reviewForm/ReviewForm';
+import './Reviews.css';
 
 import React from 'react';
 
@@ -48,7 +49,7 @@ const Reviews = ({ getBookData, book, reviews, setReviews }) => {
                         <>
                             <Row>
                                 <Col>
-                                    <ReviewForm handleSubmit={addReview} revText={revText} labelText="Write a Review?" />
+                                    <ReviewForm handleSubmit={addReview} revText={revText} labelText="Write a Review: " />
                                 </Col>
                             </Row>
                             <Row>
