@@ -1,0 +1,413 @@
+[{
+  "_id": {
+    "$oid": "677824cd41f358b98ebeab0a"
+  },
+  "imdbId": "tt3915174",
+  "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+  "releaseDate": "2008-08-01",
+  "trailerLink": "https://www.youtube.com/watch?app=desktop&v=mDSSuOrarcs",
+  "genres": [
+    "Programming",
+    "Best Practices",
+    "Software Development",
+    "Craftsmanship"
+  ],
+  "poster": "https://m.media-amazon.com/images/I/51E2055ZGUL._SL1000_.jpg",
+  "backdrops": [
+    "https://i.ytimg.com/vi/mDSSuOrarcs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAIGPysmvpYxB6DU-v3IxmHKHTiUA",
+    "https://miro.medium.com/v2/da:true/resize:fit:640/0*BLJDJiHPMcVHGhz7",
+    "https://media.licdn.com/dms/image/v2/C4D12AQEW3PnJtuHuDg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1616761015731?e=2147483647&v=beta&t=kh1Q3l23Ar3z7-c84RRb3swteGaJMmgLRGU2kJJ5aVw"
+  ],
+  "reviewIds": [
+    {
+      "$oid": "6779b46fc709112fa1db423e"
+    },
+    {
+      "$oid": "6779b472c709112fa1db423f"
+    },
+    {
+      "$oid": "6779b472c709112fa1db4240"
+    },
+    {
+      "$oid": "6779b472c709112fa1db4241"
+    },
+    {
+      "$oid": "6779b472c709112fa1db4242"
+    },
+    {
+      "$oid": "6779b47ec709112fa1db4243"
+    },
+    {
+      "$oid": "6779b47ec709112fa1db4244"
+    },
+    {
+      "$oid": "6779b47ec709112fa1db4245"
+    },
+    {
+      "$oid": "6779b47ec709112fa1db4246"
+    },
+    {
+      "$oid": "6779b47ec709112fa1db4247"
+    },
+    {
+      "$oid": "6779b47fc709112fa1db4248"
+    },
+    {
+      "$oid": "6779b47fc709112fa1db424a"
+    },
+    {
+      "$oid": "6779b47fc709112fa1db4249"
+    },
+    {
+      "$oid": "6779b47fc709112fa1db424c"
+    },
+    {
+      "$oid": "6779b47fc709112fa1db424d"
+    },
+    {
+      "$oid": "6779b480c709112fa1db424e"
+    },
+    {
+      "$oid": "6779b47fc709112fa1db424b"
+    },
+    {
+      "$oid": "6779b480c709112fa1db424f"
+    },
+    {
+      "$oid": "6779b480c709112fa1db4250"
+    },
+    {
+      "$oid": "6779b480c709112fa1db4251"
+    },
+    {
+      "$oid": "6779b480c709112fa1db4252"
+    },
+    {
+      "$oid": "6779b481c709112fa1db4253"
+    },
+    {
+      "$oid": "6779b481c709112fa1db4254"
+    },
+    {
+      "$oid": "6779b481c709112fa1db4255"
+    },
+    {
+      "$oid": "6779b482c709112fa1db4256"
+    },
+    {
+      "$oid": "6779b482c709112fa1db4257"
+    },
+    {
+      "$oid": "6779b484c709112fa1db4258"
+    },
+    {
+      "$oid": "6779b484c709112fa1db4259"
+    },
+    {
+      "$oid": "6779b484c709112fa1db425a"
+    },
+    {
+      "$oid": "6779b484c709112fa1db425b"
+    },
+    {
+      "$oid": "6779b485c709112fa1db425c"
+    },
+    {
+      "$oid": "6779b485c709112fa1db425d"
+    },
+    {
+      "$oid": "6779b486c709112fa1db425e"
+    },
+    {
+      "$oid": "6779b486c709112fa1db425f"
+    },
+    {
+      "$oid": "6779b486c709112fa1db4260"
+    },
+    {
+      "$oid": "6779b486c709112fa1db4261"
+    },
+    {
+      "$oid": "6779b486c709112fa1db4262"
+    },
+    {
+      "$oid": "6779b487c709112fa1db4263"
+    },
+    {
+      "$oid": "6779b487c709112fa1db4264"
+    },
+    {
+      "$oid": "6779b487c709112fa1db4265"
+    },
+    {
+      "$oid": "6779b487c709112fa1db4266"
+    },
+    {
+      "$oid": "6779b487c709112fa1db4267"
+    },
+    {
+      "$oid": "6779b488c709112fa1db4268"
+    },
+    {
+      "$oid": "6779b488c709112fa1db4269"
+    },
+    {
+      "$oid": "6779b48cc709112fa1db426a"
+    },
+    {
+      "$oid": "6779b490c709112fa1db426b"
+    },
+    {
+      "$oid": "6779b492c709112fa1db426c"
+    },
+    {
+      "$oid": "6779b492c709112fa1db426d"
+    },
+    {
+      "$oid": "6779b492c709112fa1db426e"
+    },
+    {
+      "$oid": "6779b492c709112fa1db426f"
+    },
+    {
+      "$oid": "6779b493c709112fa1db4270"
+    },
+    {
+      "$oid": "6779b716c709112fa1db4271"
+    },
+    {
+      "$oid": "6779b716c709112fa1db4272"
+    },
+    {
+      "$oid": "6779b716c709112fa1db4273"
+    },
+    {
+      "$oid": "6779b718c709112fa1db4274"
+    },
+    {
+      "$oid": "6779b718c709112fa1db4275"
+    },
+    {
+      "$oid": "6779b718c709112fa1db4276"
+    },
+    {
+      "$oid": "6779b765c709112fa1db4277"
+    },
+    {
+      "$oid": "6779b766c709112fa1db4278"
+    },
+    {
+      "$oid": "6779b766c709112fa1db4279"
+    },
+    {
+      "$oid": "6779b766c709112fa1db427a"
+    },
+    {
+      "$oid": "6779b792c709112fa1db427b"
+    },
+    {
+      "$oid": "6779b792c709112fa1db427c"
+    },
+    {
+      "$oid": "6779b792c709112fa1db427d"
+    },
+    {
+      "$oid": "6779b792c709112fa1db427e"
+    },
+    {
+      "$oid": "677af09372d87f0d82a422e2"
+    },
+    {
+      "$oid": "677af09b72d87f0d82a422e3"
+    },
+    {
+      "$oid": "677af1c472d87f0d82a422f8"
+    },
+    {
+      "$oid": "677af1c872d87f0d82a422f9"
+    },
+    {
+      "$oid": "677af60672d87f0d82a42302"
+    },
+    {
+      "$oid": "677af60b72d87f0d82a42303"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "677824cd41f358b98ebeab0f"
+  },
+  "imdbId": "tt0499549",
+  "title": "The Mythical Man-Month: Essays on Software Engineering",
+  "releaseDate": "1975-01-01",
+  "trailerLink": "https://www.youtube.com/watch?v=zXqxe5Es3HA",
+  "genres": [
+    "Software Engineering",
+    "Project Management",
+    "Essays"
+  ],
+  "poster": "https://m.media-amazon.com/images/I/817iWsLJR0L.jpg",
+  "backdrops": [
+    "https://www.briansnotes.io/wp-content/uploads/2020/12/mythical-man-month-book-350x350.jpg",
+    "https://sachin-rekhi.s3-us-west-1.amazonaws.com/blog/solving-for-the-mythical-man-month.gif",
+    "https://miro.medium.com/v2/resize:fit:600/1*G2ra8SeVWUh-QGGgVLun4Q.png"
+  ],
+  "reviewIds": [
+    {
+      "$oid": "677aebf272d87f0d82a422df"
+    },
+    {
+      "$oid": "677aec0972d87f0d82a422e0"
+    },
+    {
+      "$oid": "677aec9672d87f0d82a422e1"
+    },
+    {
+      "$oid": "677af2b972d87f0d82a422fa"
+    },
+    {
+      "$oid": "677af2be72d87f0d82a422fb"
+    },
+    {
+      "$oid": "677af4fc72d87f0d82a422fe"
+    },
+    {
+      "$oid": "677af53872d87f0d82a422ff"
+    },
+    {
+      "$oid": "677af55572d87f0d82a42300"
+    },
+    {
+      "$oid": "677af5ed72d87f0d82a42301"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "677824cd41f358b98ebeab10"
+  },
+  "imdbId": "tt3447590",
+  "title": "You Don't Know JS: Scope & Closures",
+  "releaseDate": "2014-07-21",
+  "trailerLink": "https://www.youtube.com/watch?v=jwo2mW32r7g",
+  "genres": [
+    "JavaScript",
+    "Programming",
+    "Web Development"
+  ],
+  "poster": "https://m.media-amazon.com/images/I/71AkGqKdeyL._UF1000,1000_QL80_.jpg",
+  "backdrops": [
+    "https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fy3dp54ey7k6ub2vfuh4c.png",
+    "https://blog.beplan.cl/wp-content/uploads/2021/02/destacada-Youdontknowjs.jpg",
+    "https://cdn.hashnode.com/res/hashnode/image/upload/v1682878479308/ffa56789-d637-4e99-8aea-2086c3ccae03.jpeg"
+  ],
+  "reviewIds": [
+    {
+      "$oid": "677aea5d72d87f0d82a422d9"
+    },
+    {
+      "$oid": "677aea6b72d87f0d82a422da"
+    },
+    {
+      "$oid": "677aea6b72d87f0d82a422db"
+    },
+    {
+      "$oid": "677aea6b72d87f0d82a422dc"
+    },
+    {
+      "$oid": "677aea6b72d87f0d82a422dd"
+    },
+    {
+      "$oid": "677aeb9f72d87f0d82a422de"
+    },
+    {
+      "$oid": "677af3af72d87f0d82a422fc"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "677824cd41f358b98ebeab11"
+  },
+  "imdbId": "tt9114286",
+  "title": "Domain-Driven Design: Tackling Complexity in the Heart of Software",
+  "releaseDate": "2003-08-30",
+  "trailerLink": "https://www.youtube.com/watch?v=dnUFEg68ESM",
+  "genres": [
+    "Software Architecture",
+    "Programming",
+    "Domain Modeling"
+  ],
+  "poster": "https://m.media-amazon.com/images/I/81ykBjVaUjL.jpg",
+  "backdrops": [
+    "https://i1.wp.com/innoroo.com/blog/wp-content/uploads/2018/01/20.-Domain-Driven-Design-01.png?fit=1200%2C656",
+    "https://i.ytimg.com/vi/ZUGh1OVX14Y/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBetaqrTM1tFEDO6dv2NRv3WUwMYw",
+    "https://i.ytimg.com/vi/dnUFEg68ESM/maxresdefault.jpg"
+  ],
+  "reviewIds": [
+    {
+      "$oid": "677af0d672d87f0d82a422e4"
+    },
+    {
+      "$oid": "677af10772d87f0d82a422e5"
+    },
+    {
+      "$oid": "677af11c72d87f0d82a422e6"
+    },
+    {
+      "$oid": "677af14872d87f0d82a422e7"
+    },
+    {
+      "$oid": "677af14e72d87f0d82a422e8"
+    },
+    {
+      "$oid": "677af16e72d87f0d82a422e9"
+    },
+    {
+      "$oid": "677af17072d87f0d82a422ea"
+    },
+    {
+      "$oid": "677af17072d87f0d82a422eb"
+    },
+    {
+      "$oid": "677af17072d87f0d82a422ec"
+    },
+    {
+      "$oid": "677af17072d87f0d82a422ed"
+    },
+    {
+      "$oid": "677af17072d87f0d82a422ee"
+    },
+    {
+      "$oid": "677af17172d87f0d82a422ef"
+    },
+    {
+      "$oid": "677af17172d87f0d82a422f0"
+    },
+    {
+      "$oid": "677af17172d87f0d82a422f1"
+    },
+    {
+      "$oid": "677af17272d87f0d82a422f2"
+    },
+    {
+      "$oid": "677af17272d87f0d82a422f3"
+    },
+    {
+      "$oid": "677af17272d87f0d82a422f4"
+    },
+    {
+      "$oid": "677af17272d87f0d82a422f5"
+    },
+    {
+      "$oid": "677af17272d87f0d82a422f6"
+    },
+    {
+      "$oid": "677af17272d87f0d82a422f7"
+    },
+    {
+      "$oid": "677af43772d87f0d82a422fd"
+    }
+  ]
+}]

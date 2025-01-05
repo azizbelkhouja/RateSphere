@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "677af2b972d87f0d82a422fa"
+  },
+  "body": "i like it",
+  "_class": "com.ratesphere.Review"
+},
+{
+  "_id": {
+    "$oid": "677af2be72d87f0d82a422fb"
+  },
+  "body": "good book",
+  "_class": "com.ratesphere.Review"
+},
+{
+  "_id": {
+    "$oid": "677af3af72d87f0d82a422fc"
+  },
+  "body": "i like it",
+  "_class": "com.ratesphere.Review"
+},
+{
+  "_id": {
+    "$oid": "677af43772d87f0d82a422fd"
+  },
+  "body": "i like all the book",
+  "_class": "com.ratesphere.Review"
+},
+{
+  "_id": {
+    "$oid": "677af4fc72d87f0d82a422fe"
+  },
+  "body": "i like the book",
+  "_class": "com.ratesphere.Review"
+},
+{
+  "_id": {
+    "$oid": "677af53872d87f0d82a422ff"
+  },
+  "body": "i like it",
+  "_class": "com.ratesphere.Review"
+},
+{
+  "_id": {
+    "$oid": "677af55572d87f0d82a42300"
+  },
+  "body": "i ilekeee",
+  "_class": "com.ratesphere.Review"
+},
+{
+  "_id": {
+    "$oid": "677af5ed72d87f0d82a42301"
+  },
+  "body": "i like it",
+  "_class": "com.ratesphere.Review"
+},
+{
+  "_id": {
+    "$oid": "677af60672d87f0d82a42302"
+  },
+  "body": "good book",
+  "_class": "com.ratesphere.Review"
+},
+{
+  "_id": {
+    "$oid": "677af60b72d87f0d82a42303"
+  },
+  "body": "very good book",
+  "_class": "com.ratesphere.Review"
+}]
