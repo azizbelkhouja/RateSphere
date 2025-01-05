@@ -25,7 +25,7 @@ const Reviews = ({ getBookData, book, reviews, setReviews }) => {
         try {
             const response = await api.post("/api/v1/reviews", { reviewBody: rev.value, imdbId: bookId });
 
-            const updatedReviews = [...reviews, { body: rev.value }];
+            const updatedReviews = [{ body: rev.value }];
 
             rev.value = "";
 
@@ -60,6 +60,22 @@ const Reviews = ({ getBookData, book, reviews, setReviews }) => {
                         </>
                     }
                     {
+                        book?.reviewIds.map((sub) => {
+                            return (
+                                <>
+                                    <Row>
+                                        <Col>{sub.body}</Col>
+                                    </Row>
+                                    <Row>
+                                        <Col>
+                                            <hr />
+                                        </Col>
+                                    </Row>
+                                </>
+                            );
+                        })
+                    }
+                    {
                         reviews?.map((r) => {
                             return (
                                 <>
@@ -75,6 +91,7 @@ const Reviews = ({ getBookData, book, reviews, setReviews }) => {
                             );
                         })
                     }
+
                 </Col>
             </Row>
             <Row>
