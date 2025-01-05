@@ -30,6 +30,7 @@ const Reviews = ({ getBookData, book, reviews, setReviews }) => {
             rev.value = "";
 
             setReviews(updatedReviews);
+            
         } catch (err) {
             console.error(err);
         }
@@ -60,7 +61,7 @@ const Reviews = ({ getBookData, book, reviews, setReviews }) => {
                         </>
                     }
                     {
-                        book?.reviewIds.map((sub) => {
+                        book?.reviewIds?.map((sub) => {
                             return (
                                 <>
                                     <Row>
