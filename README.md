@@ -1,6 +1,5 @@
 # RateSphere
 
-## Screenshots
 1. ![Screenshot 1](./assets/home-page.png)
 2. ![Screenshot 2](./assets/reviews-page.png)
 
