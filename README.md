@@ -33,16 +33,6 @@ RateSphere is a web application that allows users to browse books, watch trailer
 
 ---
 
-## Deployment
-1. Build the project:
-   ```bash
-   npm run build
-   ```
-
-2. Deploy the `build` folder to your hosting service (e.g., Netlify, Vercel, AWS).
-
----
-
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
 
